@@ -1,0 +1,8 @@
+prefix=/home/praveen/a285m_pid_ws/devel
+
+Name: a285m_pid
+Description: Description of a285m_pid
+Version: 0.0.0
+Cflags: -I/home/praveen/a285m_pid_ws/src/a285m_pid/include
+Libs: -L${prefix}/lib -la285m_pid
+Requires: roscpp std_msgs sensor_msgs nav_msgs geometry_msgs gazebo_msgs

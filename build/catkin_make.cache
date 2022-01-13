@@ -1,0 +1,2 @@
+a285m_pid
+-DCATKIN_DEVEL_PREFIX=/home/praveen/a285m_pid_ws/devel -DCMAKE_INSTALL_PREFIX=/home/praveen/a285m_pid_ws/install -G Unix Makefiles
